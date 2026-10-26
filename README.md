@@ -20,6 +20,8 @@ Bu proje, ESP32 ve DHT11 sensörü kullanarak ortam sıcaklığını ölçen ve 
 | **DHT11 Sensör** | `GPIO 4` | Veri pini. (Ayrıca VCC ve GND bağlanmalıdır) |
 | **Röle Modülü** | `GPIO 5` | Sinyal pini. (Active Low çalışır. 0=Açık, 1=Kapalı) |
 
+<img width="500" height="500" alt="Akilli termostat_bb" src="https://github.com/user-attachments/assets/96220c26-7092-456a-9b1f-95e2e30e453a" />
+
 ## Kurulum ve Kullanım
 
 1. `main.py` dosyası içindeki şu kısımları kendi ağınıza göre düzenleyin:
